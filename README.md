@@ -8,3 +8,4 @@ Follow these steps to install Linux Battery Warning :
 
 git clone https://github.com/vpslabs/Linux-Battery-Warning
 
+Thanks to: https://linuxsoftware.moncerbae.com/
